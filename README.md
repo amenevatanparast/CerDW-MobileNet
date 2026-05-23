@@ -26,12 +26,6 @@ Authors:
 - Hoda Mashayekhi
 - Saideh Ferdowsi
 
----
-
-## Google Colab
-Run the notebook directly in Google Colab:
-
-[Open in Colab](YOUR_COLAB_NOTEBOOK_LINK)
 
 ---
 
@@ -45,7 +39,7 @@ Dataset sources include publicly available fetal ultrasound datasets, published 
 
 Dataset access:
 
-[Download Dataset](YOUR_DATASET_LINK)
+[Download Dataset]((https://drive.google.com/drive/folders/1EdDAOINKFETBUHY87XixCF8K1lixepA7?usp=drive_link))
 
 ---
 
