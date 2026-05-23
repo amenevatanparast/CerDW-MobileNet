@@ -39,7 +39,7 @@ Dataset sources include publicly available fetal ultrasound datasets, published 
 
 Dataset access:
 
-[Download Dataset]((https://drive.google.com/drive/folders/1EdDAOINKFETBUHY87XixCF8K1lixepA7?usp=drive_link))
+https://drive.google.com/drive/folders/1EdDAOINKFETBUHY87XixCF8K1lixepA7?usp=drive_link
 
 ---
 
